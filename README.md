@@ -11,6 +11,8 @@ The application provides features and corresponding buttons that allow the user 
 * remove from the list all occurrences of a word
 * clear the list
 
-The list may contain duplicate entries. Words may contain only letters, numbers, and hyphens (-) and must begin with a letter. For each action specified above an appropriate message is displayed on the centre panel confirming the action, e.g.  “Word ‘toast’ has been added to the list”. 
+The list may contain duplicate entries. Words may contain only letters, numbers, and hyphens (-) and must begin with a letter.
+
+For each action specified above an appropriate message is displayed on the centre panel confirming the action, e.g.  “Word ‘toast’ has been added to the list”. 
 
 An appropriate error message is displayed if any of the actions failed, e.g.  “The string ‘12’ was not added to the list as it is not a valid word.”
